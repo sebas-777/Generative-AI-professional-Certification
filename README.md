@@ -25,6 +25,9 @@ Las grandes empresas tecnológicas recopilan una gran cantidad de datos. Utiliza
   - [2.3.Más sobre Machine Learning y Deep Learning](chapter2.md#23-Mássobre-Machine-Learning-y-Deep-Learning)
   - [2.4 Amplía tu definición de Inteligencia Artificial](chapter2.md#24-Amplia-tu-definición-de-Inteligencia-Artificial)
   
--[Capitulo 3 - Ver más allá de los mitos: Descubre el verdadero poder de la Inteligencia Artificial](Chapter3.md)
-  - [3.1 - Desmitificando mitos comunes en torno a la IA](chapter3.md#31-Desmitificando-mitos-comunes-en-torno-a-la-ia)
+- [Capitulo 3 - Ver más allá de los mitos: Descubre el verdadero poder de la Inteligencia Artificial](Chapter3.md)
+  - [3.1.Desmitificando mitos comunes en torno a la IA](chapter3.md#31-Desmitificando-mitos-comunes-en-torno-a-la-ia)
 
+- [Capitulo 4 - Descubre las oportunidades que ofrece la Inteligencia Artificial](chapter4.md)
+  - [4.1 - Detección temprana de enfermedades](chapter4.md#41-Detección-temprana-de-enfermedades)
+  - [4.2 - Iniciativas en educación](chapter4.md#42-Iniciativas-en-educación)

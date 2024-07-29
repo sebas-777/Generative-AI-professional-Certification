@@ -16,4 +16,6 @@ Se distingue entre IA estrecha (especializada en tareas específicas) y IA gener
 **Mito No. 2: “La IA funciona igual que el cerebro humano”**  
 Aunque las redes neuronales y el Deep Learning se inspiran en el cerebro humano, la IA opera de manera muy diferente.
 La IA puede superar a los humanos en tareas específicas como cálculos matemáticos y memoria, pero carece de capacidades como emoción, empatía y humor.
-Algunas aplicaciones, como Amazon Alexa, pueden simular emociones para interactuar mejor con los usuarios, pero estas emociones no son reales.
+Algunas aplicaciones, como Amazon Alexa, pueden simular emociones para interactuar mejor con los usuarios, pero estas emociones no son reales.  
+
+
