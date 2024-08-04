@@ -16,4 +16,6 @@ A estas alturas, probablemente te hayas dado cuenta de que la IA está en todas 
 
 La inteligencia artificial está transformando la vida cotidiana a través de electrodomésticos controlados por comandos de voz y vehículos autónomos. Dispositivos como Alexa y Google Nest permiten interacciones naturales con diversos aparatos, mientras que empresas como Tesla y Oxbotica desarrollan vehículos que prometen mayor eficiencia y seguridad en el transporte. Actualmente, millones de personas utilizan altavoces inteligentes, y se espera que estas tecnologías continúen evolucionando y expandiéndose. La IA, capaz de resolver problemas complejos, seguirá ofreciendo nuevas aplicaciones y beneficios en los próximos años.
 
-![An image](./img/Designer2.jpeg) (Generated of AI)
+![An image](./img/Designer2.jpeg) (Generated of AI) 
+
+[volver al inicio](README.md)

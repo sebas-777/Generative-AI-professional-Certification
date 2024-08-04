@@ -45,4 +45,6 @@ Resumen de Conceptos Clave
 `Ciencia de Datos e IA:` Son campos interrelacionados que utilizan técnicas de Machine Learning y Deep Learning para analizar y extraer valor de grandes volúmenes de datos.  
 `Diferenciación de Campos:` La IA y la robótica son disciplinas distintas pero a menudo trabajan juntas en proyectos. La IA se centra en el procesamiento y análisis de información, mientras que la robótica se ocupa de la construcción y control de robots.  
 `Próximos Pasos`
-Con esta comprensión básica, estaremos mejor preparados para abordar algunos de los mitos más comunes sobre la inteligencia artificial en el próximo capítulo.
+Con esta comprensión básica, estaremos mejor preparados para abordar algunos de los mitos más comunes sobre la inteligencia artificial en el próximo capítulo. 
+
+[volver al inicio](README.md)

@@ -18,4 +18,4 @@ Aunque las redes neuronales y el Deep Learning se inspiran en el cerebro humano,
 La IA puede superar a los humanos en tareas específicas como cálculos matemáticos y memoria, pero carece de capacidades como emoción, empatía y humor.
 Algunas aplicaciones, como Amazon Alexa, pueden simular emociones para interactuar mejor con los usuarios, pero estas emociones no son reales.  
 
-
+[volver al inicio](README.md)

@@ -29,5 +29,7 @@ Ayudando a los estudiantes a aprender a escribir
 **Apoyar la alfabetización**
 `Square Panda:` Una startup estadounidense que diseñó un sistema de aprendizaje adaptativo y fonético multisensorial basado en IA.  
 `Personalización:`Ajusta automáticamente el nivel de dificultad según el progreso del estudiante.  
-`Funcionalidad:` Cuanto más utiliza el niño el sistema, mayor es la personalización del contenido.
-`Impacto:` Ofrece una experiencia de aprendizaje personalizada, mejorando la alfabetización.
+`Funcionalidad:` Cuanto más utiliza el niño el sistema, mayor es la personalización del contenido.  
+`Impacto:` Ofrece una experiencia de aprendizaje personalizada, mejorando la alfabetización. 
+
+[volver al inicio](README.md)

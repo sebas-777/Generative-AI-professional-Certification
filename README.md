@@ -31,3 +31,21 @@ Las grandes empresas tecnológicas recopilan una gran cantidad de datos. Utiliza
 - [Capitulo 4 - Descubre las oportunidades que ofrece la Inteligencia Artificial](chapter4.md)
   - [4.1 - Detección temprana de enfermedades](chapter4.md#41-Detección-temprana-de-enfermedades)
   - [4.2 - Iniciativas en educación](chapter4.md#42-Iniciativas-en-educación)
+  
+- [Capitulo 5 - Identificar los problemas de seguridad de la Inteligencia Artificial](chapter5.md)
+  - [5.1 - Explorar el uso malicioso de la IA](chapter5.md#51-Explorar-el-uso-malicioso-de-la-IA)
+  - [5.2 -  Ciberataques](chapter5.md#52-Ciberataques)
+  - [5.3 - Problema N.°1: Falta de robustez en la IA](chapter5.md#53-Ciberseguridad)
+  - [5.4 - Problema N.°2: Falta de explicabilidad en la IA](chapter5.md#54-Falta-de-explicabilidad-en-la-IA)
+  - [5.5 - Problema N.°3: Definir los objetivos correctos para un Sistema de IA](chapter5.md#55-Falta-de-confianza-en-la-IA)
+  
+-[Capitulo 6 - Destino IA: Introducción a la Inteligencia Artificial](chapter6.md)
+  - [6.1 -  Identifica los desafíos en la creación de una IA responsable y confiable](chapter6.md#61-¿Qué-es-la-inteligencia-artificial?) 
+  - [ 6.2 - Limitar y anticipar el riesgo con la gobernanza de la IA](chapter6.md#62-¿Qué-es-la-inteligencia-artificial?) 
+
+[Capitulo 7 - Evaluar el impacto de la Inteligencia Artificial en el lugar de trabajo](chapter7.md)
+  -[ 7.1 - Transformando Empleos y Preparándonos para el Futuro Laboral](chapter7.md) 
+
+[Capitulo 8 - Identificar las diferentes etapas de un proyecto de Inteligencia Artificial](chapter8.md)
+  - [8.1 - Identificar las diferentes etapas de un proyecto de Inteligencia Artificial](chapter8.md#81-Identificar-las-diferentes-etapas-de-un-proyecto-de-Inteligencia-Artificial)
+  - [8.2 - Definir los parámetros de tu proyecto de Inteligencia Artificial](chapter8.md#82-Definir-los-parámetros-de-tu-proyecto-de-Inteligencia-Artificial) 
