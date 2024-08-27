@@ -30,3 +30,5 @@ Un algoritmo es una secuencia de instrucciones para resolver un problema. En el 
 - `Aprendizaje No Supervisado:` El algoritmo agrupa datos sin etiquetas previas, descubriendo patrones ocultos sin supervisión (por ejemplo, agrupando casas en categorías basadas en características).  
 - `Aprendizaje por Refuerzo:` El algoritmo interactúa con un entorno y aprende a través de ensayo y error para encontrar soluciones óptimas (por ejemplo, un agente que aprende a jugar un juego).  
 
+[volver al inicio](README.md)
+

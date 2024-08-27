@@ -56,7 +56,13 @@ Las grandes empresas tecnológicas recopilan una gran cantidad de datos. Utiliza
   - [8.2 - Definir los parámetros de tu proyecto de Inteligencia Artificial](chapter/chapter8.md#82-Definir-los-parámetros-de-tu-proyecto-de-Inteligencia-Artificial) 
   
 [Capitulo 9 - Descubre los fundamentos del Machine Learning](chapter/chapter9.md)
-  - [9.1 - ¿Qué es un Modelo?](chapter/chapter9.md)
-  - 
+  - [9.1 - ¿Qué es un Modelo?](chapter/chapter9.md) 
+  
+[Capitulo 10 - 10.1 - Descubre los Fundamentos del Deep Learning](chapter/chapter11.md)	
 
-[Reto 1 - proyecto  fabrica de Automóviles](README.md#chapter/chapter10.md)
+[Capitulo 11 - Comprende los modelos de IA de propósito general](chapter/chapter12.md)
+  -[11.1 - Comprende los modelos de IA de propósito general](chapter/chapter12.md#111-Comprende-los-modelos-de-IA-de-propósito-general)
+  -[11.2 - Descubre un ejemplo de IA de propósito general: IA Generativa](chapter/chapter12.md#112-Descubre-un-ejemplo-de-IA-de-propósito-general-IA-Generativa)
+  -[11.3 - Aprende cómo funciona la IA Generativa](chapter/chapter12.md#113-Aprende-como-funciona-la-IA-Generativa)
+
+[Reto 1 - proyecto  fabrica de Automóviles](READchapter/chapter10.md)

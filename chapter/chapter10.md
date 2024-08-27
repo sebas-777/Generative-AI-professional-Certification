@@ -75,3 +75,5 @@ Esta métrica es una medida de la diferencia entre dos valores, es decir, nos pe
 `Raíz del error medio cuadrado, root mean square error (RMSE)`
 Como la métrica anterior nos da el resultado en unidades cuadradas, para poder interpretarlo más fácilmente sacamos la raíz cuadrada y de esta manera tenemos el valor en las unidades originales.
 
+[volver al inicio](README.md)
+
